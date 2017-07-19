@@ -23,7 +23,7 @@ Tensorflow implementation of Generative Adversarial Networks (GAN) for MNIST dat
 
 ![Loss](MNIST_GAN_results/MNIST_GAN_train_hist.png)
 
-* Training time
+* Learning time
     - Avg. per epoch: 4.97 sec
     - Total 100 epoch: 1255.92 sec
 
