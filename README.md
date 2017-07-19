@@ -23,14 +23,19 @@ Tensorflow implementation of Generative Adversarial Networks (GAN) for MNIST dat
 
 ![Loss](MNIST_GAN_results/MNIST_GAN_train_hist.png)
 
+* Training time
+- Avg. per epoch: 
+- Total 100 epoch: 
+
 ## Development Environment
 
-* Ubuntu 14.04 LTS
-* Python 2.7.6
+* Windows 7
+* GTX1080 ti
 * cuda 8.0
-* pytorch 0.1.12
-* torchvision 0.1.8
-* matplotlib 1.3.1
+* Python 3.5.3
+* tensorflow-gpu 1.2.1
+* numpy 1.13.1
+* matplotlib 2.0.2
 * imageio 2.2.0
 
 ## Reference
