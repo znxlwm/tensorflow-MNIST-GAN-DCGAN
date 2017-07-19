@@ -24,8 +24,8 @@ Tensorflow implementation of Generative Adversarial Networks (GAN) for MNIST dat
 ![Loss](MNIST_GAN_results/MNIST_GAN_train_hist.png)
 
 * Training time
-    -Avg. per epoch: 
-    -Total 100 epoch: 
+    - Avg. per epoch: 
+    - Total 100 epoch: 
 
 ## Development Environment
 
