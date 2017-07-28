@@ -29,7 +29,7 @@ Tensorflow implementation of Generative Adversarial Networks (GAN) [1] and Deep 
 <tr>
 <td><img src = 'MNIST_GAN_results/raw_MNIST.png'>
 <td><img src = 'MNIST_GAN_results/MNIST_GAN_100.png'>
-<td><img src = 'MNIST_DCGAN_results/MNIST_DCGAN_100.png'>
+<td><img src = 'MNIST_DCGAN_results/MNIST_DCGAN_20.png'>
 </tr>
 </table>
 
