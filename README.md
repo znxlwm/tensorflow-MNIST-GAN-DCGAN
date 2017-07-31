@@ -1,4 +1,4 @@
-# tensorflow-MNIST-GAN
+# tensorflow-MNIST-GAN-DCGAN
 Tensorflow implementation of Generative Adversarial Networks (GAN) [1] and Deep Convolutional Generative Adversarial Networks (DCGAN) [2] for MNIST [3] dataset.
 
 * you can download
