@@ -52,7 +52,7 @@ def discriminator(x, drop_out):
     h1 = tf.nn.dropout(h1, drop_out)
 
     # 3rd hidden layer
-    w2 = tf.get_variable('D_w2', [h1.get_shape()[1], 1024], initializer=w_init)
+    w2 = tf.get_variable('D_w2', [h1.get_shape()[1], 256], initializer=w_init)
     b2 = tf.get_variable('D_b2', [1024], initializer=b_init)
     h2 = tf.nn.relu(tf.matmul(h1, w2) + b2)
     h2 = tf.nn.dropout(h2, drop_out)
