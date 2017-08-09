@@ -3,7 +3,16 @@ Tensorflow implementation of Generative Adversarial Networks (GAN) [1] and Deep 
 
 * you can download
   - MNIST dataset: http://yann.lecun.com/exdb/mnist/
- 
+
+## Implementation details
+* GAN
+
+![GAN](tensorflow_GAN.png)
+
+* DCGAN
+
+![Loss](tensorflow_DCGAN.png)
+
 ## Resutls
 * Generate using fixed noise (fixed_z_)
 
