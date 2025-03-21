@@ -43,7 +43,7 @@ Tensorflow implementation of Generative Adversarial Networks (GAN) [1] and Deep 
 </table>
 
 * Training loss
-  * GAN
+  * GAN loss
 
 ![Loss](MNIST_GAN_results/MNIST_GAN_train_hist.png)
 
